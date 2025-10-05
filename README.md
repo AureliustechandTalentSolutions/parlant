@@ -240,6 +240,13 @@ _Financial institutions • Healthcare providers • Legal firms • E-commerce 
 </tr>
 </table>
 
+## 🔌 Platform Integrations
+
+Parlant integrates seamlessly with enterprise and government platforms:
+
+- 🏛️ **[Aurelius Federal Platform](docs/integrations/aurelius-federal-platform.md)** - Federal compliance and deployment guide
+- 📚 **[More Integrations](docs/integrations/)** - Additional platform integration guides
+
 ## 🤝 Community & Support
 
 - 💬 **[Discord Community](https://discord.gg/duxWqxKk6J)** - Get help from the team and community
